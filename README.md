@@ -1,1 +1,3 @@
 # Analysis-of-US-News-College-Admissions-Data-1990-2023
+
+In this project, I analyze university rankings carried out by US News & World Report. Since US News only maintains the current rankings on their website, the dataset used is compiled from various online sources. After converting the dataset into a pandas DataFrame, I carry out various pandas operations to analyze the data, including Boolean masks, statistical summary methods, and defining python functions to create new columns. I also use seaborn and matplotlib to create histograms of various subsets of the data as well as scatter plots to provide visual aid to calculations of Pearson correlation coefficients to identify linearly-correlated variables.
